@@ -1,2 +1,2 @@
 # 给Cloudflare Page 识别用
-/emojis /
+/emojis/* /:splat 200
